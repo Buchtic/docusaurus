@@ -1,7 +1,7 @@
 {
-  "theme.IdealImageMessage.404error": "404. Image not found",
-  "theme.IdealImageMessage.error": "Error. Click to reload",
-  "theme.IdealImageMessage.load": "Click to load{sizeMessage}",
-  "theme.IdealImageMessage.loading": "Loading...",
-  "theme.IdealImageMessage.offline": "Your browser is offline. Image not loaded"
+  "theme.IdealImageMessage.404error": "404. Obrázek nenalezen",
+  "theme.IdealImageMessage.error": "Chyba. Klikněte sem pro opětovné načtení",
+  "theme.IdealImageMessage.load": "Klikněte sem pro načtení{sizeMessage}",
+  "theme.IdealImageMessage.loading": "Načítám…",
+  "theme.IdealImageMessage.offline": "Váš prohlížeč je offline. Obrázek nebyl načten"
 }
